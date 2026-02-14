@@ -67,14 +67,13 @@ List the key features of your project:
 ## Project Documentation
 
 #### Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 here with proper name)
+![alt text](image.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+!![alt text](image-1.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+!![alt text](image-2.png)
 *Add caption explaining what this shows*
 
 #### Diagrams
