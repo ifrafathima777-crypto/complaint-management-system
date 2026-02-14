@@ -159,9 +159,9 @@ Output saved to: output.txt
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- FATHIMA NITHA TM: Frontend development
+- IFRA FATHIMA Y: Backend development
+
 
 ---
 
